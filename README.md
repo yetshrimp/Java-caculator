@@ -28,38 +28,4 @@
 
 6.遗憾：历史面板中动态记录历史的组件未能如愿显示。
 
-######################################################################
-
-# windows like calculator programed by java
-
-a program coded by java to achieve part of function of scientific calculator
-
-1. This calculator is modeled after the appearance of the windows calculator and the scientific calculator and standard  
-  calculator panel functions.
-
-2. This calculator implements all the arithmetic functions of the scientific calculator and standard calculator of the windows
-  calculator, and increases the degree.
-  Counting and counting conversion function.
-
-3. The calculator accepts user input, calculates the result in real time, and updates the display of expressions and results in
-  the display box.
-
-4. Error handling:
-  
-  Arithmetic error: Give a prompt and disable the next input, only the empty operation.
-  Examples: log(0), 3/0, arcsin(10)...
-  
-  Completion input error: automatically complete with 0
-  Example: (+) is converted to (0+0) ......
-  
-  Updatable input error: Clear previous input, subject to current input
-  Example: continuous +-/ operation last reserved / operation
-
-  Rejectable input error: do nothing
-  Example: 4.65. Treated as 4.65, does not match ( ) does not accept
-
-5. Display processing: clear the extra decimal point and 0 of the floating point number, and the error truncation of the result
-  caused by the precision
-  Example: 4.567000 only outputs 4.567...
-
-6. Unfortunately: the components of the history history record in the history panel are not displayed as expected.
+7.
